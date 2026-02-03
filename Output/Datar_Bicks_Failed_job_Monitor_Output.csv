@@ -1,0 +1,2 @@
+Job Name,Failure Timestamp (UTC),Failure Reason
+Product_Inventory_Sync,2026-02-03 14:10:01,Table or view not found: product_inventory_staging
