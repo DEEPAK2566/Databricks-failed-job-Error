@@ -1,3 +1,1 @@
 Job Name,Failure Timestamp (UTC),Failure Reason
-SparkSQLCLIDriver - SELECT 1/0,2026-02-03 13:00:36,ArithmeticException: divide by zero
-stderr--2026-02-03--13-00 (2).txt,N/A,No error found
