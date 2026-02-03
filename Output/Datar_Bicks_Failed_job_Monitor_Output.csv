@@ -1,2 +1,1 @@
 Job Name,Failure Timestamp (UTC),Failure Reason
-Customer_Daily_Load,2026-01-30 02:38:28,TABLE_OR_VIEW_NOT_FOUND - The table customer_source cannot be found
