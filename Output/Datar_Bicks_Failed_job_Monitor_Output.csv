@@ -1,2 +1,2 @@
 Job Name,Failure Timestamp (UTC),Failure Reason
-Log3,2026-02-04 14:21:17,UNRESOLVED_COLUMN error - Column NON_EXISTENT_COLUMN does not exist in DataFrame
+Log3,2026-02-04 14:21:17,Unresolved column reference in query - column NON_EXISTENT_COLUMN does not exist
