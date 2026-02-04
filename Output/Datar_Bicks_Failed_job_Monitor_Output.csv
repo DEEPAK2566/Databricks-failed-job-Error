@@ -1,2 +1,3 @@
 Job Name,Failure Timestamp (UTC),Failure Reason
-stderr.txt,N/A,No error found
+Unknown Job (Query Execution),2026-02-04 02:40:04,TABLE_OR_VIEW_NOT_FOUND: Table `prod_db`.`table_does_not_exist` not found
+Unknown Job (Query Execution),2026-02-04 02:40:35,TABLE_OR_VIEW_NOT_FOUND: Table `prod_db`.`table_does_not_exist` not found
