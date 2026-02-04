@@ -1,2 +1,2 @@
 Job Name,Failure Timestamp (UTC),Failure Reason
-Customer_Daily_Load,2026-02-04 02:40:04,Table or view not found: prod_db.table_does_not_exist
+log2,2026-02-04 10:25:56,Table or view not found: bronze_products_MISSING
