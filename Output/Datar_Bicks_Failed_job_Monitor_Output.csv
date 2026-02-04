@@ -1,3 +1,2 @@
 Job Name,Failure Timestamp (UTC),Failure Reason
-Spark SQL Query Job (session-7474648701721145-533635293494143),2026-02-04 02:40:04,TABLE_OR_VIEW_NOT_FOUND - Table prod_db.table_does_not_exist does not exist
-Spark SQL Query Job (session-7474648701721145-32857609391889),2026-02-04 02:40:35,TABLE_OR_VIEW_NOT_FOUND - Table prod_db.table_does_not_exist does not exist
+Spark SQL Query Execution,2026-02-04 02:40:04,Table or view not found: prod_db.table_does_not_exist
