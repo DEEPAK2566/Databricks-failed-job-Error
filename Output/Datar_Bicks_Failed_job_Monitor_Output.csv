@@ -1,4 +1,3 @@
 | Job Name | Failure Timestamp (UTC) | Failure Reason |
 |----------|-------------------------|----------------|
-| log | 2026-02-04 02:40:04 | Table or view not found: `prod_db`.`table_does_not_exist` |
-| Log3 | 2026-02-04 14:21:17 | Column 'NON_EXISTENT_COLUMN' not found; did you mean one of [product_name, total_sales, avg_amount, total_revenue]? |
+| Log3 | 2026-02-04 14:21:17 | UNRESOLVED_COLUMN.WITH_SUGGESTION: Column `NON_EXISTENT_COLUMN` not found. Did you mean one of the following? `product_name`, `total_sales`, `avg_amount`, `total_revenue`. |
