@@ -1,2 +1,2 @@
 Job Name,Failure Timestamp (UTC),Failure Reason
-Log3,2026-02-04 14:21:17,Unresolved column reference in Spark SQL query
+Log3,2026-02-04 14:21:17,Unresolved column 'NON_EXISTENT_COLUMN' - column does not exist in DataFrame
