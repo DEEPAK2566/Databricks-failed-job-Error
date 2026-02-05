@@ -1,3 +1,0 @@
-| Job Name | Failure Timestamp (UTC) | Failure Reason |
-|----------|-------------------------|----------------|
-| Log3 | 2026-02-04 14:21:17 | UNRESOLVED_COLUMN.WITH_SUGGESTION: Column `NON_EXISTENT_COLUMN` not found. Did you mean one of the following? `product_name`, `total_sales`, `avg_amount`, `total_revenue`. |
