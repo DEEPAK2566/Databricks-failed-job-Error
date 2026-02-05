@@ -1,2 +1,3 @@
-Job Name,Failure Timestamp (UTC),Failure Reason
-Databricks Shell,2026-02-04 14:21:17,Unresolved column reference - NON_EXISTENT_COLUMN does not exist in schema
+| Job Name | Failure Timestamp (UTC) | Failure Reason |
+|----------|-------------------------|----------------|
+| Log3 | 2026-02-04 14:21:17 | Unresolved column in Spark SQL query (referenced non-existent column) |
