@@ -1,2 +1,2 @@
 Job Name,Failure Timestamp (UTC),Failure Reason
-Customer_Daily_Load,2026-02-04 02:40:04,TABLE_OR_VIEW_NOT_FOUND: Table prod_db.table_does_not_exist does not exist
+Databricks Shell,2026-02-04 14:21:17,Unresolved column NON_EXISTENT_COLUMN in SQL query
