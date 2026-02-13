@@ -1,3 +1,1 @@
 Job Name,Failure Timestamp (UTC),Failure Reason
-sales_data_pipeline,2026-02-04 10:24:39,Missing table: bronze_products_MISSING not found
-Customer_Daily_Load,2026-02-10 02:39:02,Multi-task job failure - check Databricks UI for details
