@@ -1,1 +1,2 @@
-Job Name,Failure Timestamp (UTC),Failure Reason
+| Job Name | Failure Timestamp (UTC) | Failure Reason |
+|----------|-------------------------|----------------|
